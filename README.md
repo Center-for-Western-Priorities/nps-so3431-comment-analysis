@@ -6,7 +6,7 @@ An analysis of 35,700 public comments submitted through QR codes posted at natio
 
 **Finding:** Fewer than 1 in 800 comments (0.1%) actually flagged a sign for removal — the form's stated purpose. The overwhelming majority were used to defend historical accuracy, express support for the National Park Service, or push back against the administration's order.
 
-→ [View the interactive visualization](#) *(update with published URL)*
+→ [View the interactive visualization](https://nps-qrcode.netlify.app/)
 
 ---
 
